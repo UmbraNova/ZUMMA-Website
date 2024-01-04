@@ -1,0 +1,1 @@
+This is a website project using HTML, CSS and a bit of JS
